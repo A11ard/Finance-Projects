@@ -2,7 +2,7 @@
 
 **Overview:** This project uses the Black-Scholes-Merton Model  for pricing options, finding Greeks, finding implied volatility, and accommodating dividends. It's primary purpose is to model a stock's movement based off of geometric brownian motion and observe how different options' change over a given period.
 
-[Skip to Results](findings-and-discussion)
+[Skip to Results](#findings-and-discussion)
 
 ## Cloning
 
