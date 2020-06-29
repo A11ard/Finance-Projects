@@ -6,7 +6,7 @@
 
 To clone: open a linux terminal or git bash and type:
 ```bash
-git clone
+git clone https://github.com/A11ard/Finance-Projects.git
 ```
 
 ## Findings and Discussion
